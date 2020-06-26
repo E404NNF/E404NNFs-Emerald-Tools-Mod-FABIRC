@@ -7,11 +7,13 @@ assignees: ''
 
 ---
 
-Problem:
+What is your problem?:
 
 
-How to produce:
+How did we reproduce it?:
 
- 
 
-How do you think it can be fixed:
+How do you think it can be fixed?:
+
+
+Additional Context:
